@@ -1,5 +1,12 @@
-users:
-  0:
-    id: 1
-  1:
-    id:2
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "Arseniy"
+    },
+    {
+      "id": 2,
+      "login": "doctor"
+    }
+  ]
+}
