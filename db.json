@@ -2,11 +2,30 @@
   "users": [
     {
       "id": 1,
-      "login": "Arseniy"
+      "registrationDate:": 1678891010,
+      "fullName": "Калинько А.Е.",
+      "login": "Arseniy",
+      "role": "admin",
+      "status": true,
+      "deletionDate": 0
     },
     {
       "id": 2,
-      "login": "doctor"
+      "registrationDate:": 1678977410,
+      "fullName": "Шванев А.А.",
+      "login": "doctor",
+      "role": "user",
+      "status": true,
+      "deletionDate": 0
+    },
+    {
+      "id": 3,
+      "registrationDate:": 1679063810,
+      "fullName": "Бауэр Р.Е.",
+      "login": "rudenf",
+      "role": "user",
+      "status": false,
+      "deletionDate": 1679150210
     }
   ]
 }
