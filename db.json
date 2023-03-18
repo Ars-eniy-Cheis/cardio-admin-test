@@ -28,11 +28,7 @@
       "deletionDate": 1679150210
     }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  patients: [
+  "patients": [
             {
                 id: 8,
                 dateOfAdmission: 1672954315,
