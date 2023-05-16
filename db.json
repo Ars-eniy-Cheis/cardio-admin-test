@@ -29,36 +29,36 @@
     }
   ],
   "patients": {
-  contents: [
+  "contents": [
     {
-      id: 8,
-      description: "",
-      type: "covid",
-      properties: {
-        death: true
+      "id": 8,
+      "description": "",
+      "type": "covid",
+      "properties": {
+        "death": true
       },
-      createdAt: 1672954315,
-      updatedAt: 1672957315,
+      "createdAt": 1672954315,
+      "updatedAt": 1672957315,
     },
     {
-      id: 12,
-      description: "",
-      type: "covid",
-      properties: {
-        death: false
+      "id": 12,
+      "description": "",
+      "type": "covid",
+      "properties": {
+        "death": false
       },
-      createdAt: 1672704315,
-      updatedAt: 1672867315,
+      "createdAt": 1672704315,
+      "updatedAt": 1672867315,
     },
     {
-      id: 2,
-      description: "",
-      type: "covid",
-      properties: {
-        death: true
+      "id": 2,
+      "description": "",
+      "type": "covid",
+      "properties": {
+        "death": true
       },
-      createdAt: 1672924315,
-      updatedAt: 1672997315,
+      "createdAt": 1672924315,
+      "updatedAt": 1672997315,
     }
   ],
   "page": 1,
