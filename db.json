@@ -28,7 +28,8 @@
       "deletionDate": 1679150210
     }
   ],
-  "patients": {
+  "patients": [
+    {
   "contents": [
     {
       "id": 8,
@@ -67,4 +68,5 @@
   "totalPages": 0,
   "totalElements": 0
 }
+  ]
 }
